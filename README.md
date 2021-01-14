@@ -1,7 +1,6 @@
 # texas-holdem
 Enterprise training of JiangSu Normal University KeWen College Grade 20 Big Data.
 
-@[TOC]
 # 德州扑克
 德州扑克不使用鬼牌，只使用52张扑克牌，是一种不换牌扑克游戏。
 
