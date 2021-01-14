@@ -1,5 +1,7 @@
 # texas-holdem
 Enterprise training of JiangSu Normal University KeWen College Grade 20 Big Data.
+[Code of texas-holdem.](https://github.com/zhinushannan/texas-holdem.io/tree/main/texas-holdem)
+[If you don't know how use GitHub, please click here.](https://zhinushannan.github.io/myStudy.io/)
 
 # 德州扑克
 德州扑克不使用鬼牌，只使用52张扑克牌，是一种不换牌扑克游戏。
